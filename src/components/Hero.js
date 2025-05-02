@@ -25,7 +25,7 @@ export default function Hero() {
         {/* Description paragraph with larger text */}
         <div className="text-xl md:text-2xl text-gray-400 mb-12 max-w-3xl mx-auto leading-relaxed space-y-4">
           <p>We build exceptional digital experiences with modern web technologies.</p>
-          <p className="text-white">"Empowering youth through collaboration and innovation."</p>
+          <p className="text-white">Empowering youth through collaboration and innovation.</p>
         </div>
         
         {/* Buttons - larger with more spacing */}
