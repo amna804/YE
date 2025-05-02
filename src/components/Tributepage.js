@@ -69,12 +69,12 @@ const services = [
 
 const TributePage = () => {
   return (
-    <section className="min-h-screen bg-background text-blue-600 p-8">
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-5xl mx-auto">
+    <section className="min-h-screen bg-background text-white p-8">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-8  max-w-7xl mx-auto">
         {services.map((service, index) => (
           <div
             key={index}
-            className="bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition flex flex-col justify-between h-full"
+            className="bg-transparent border-2 border-white p-6 rounded-lg shadow-2xl hover:shadow-xl transition flex flex-col justify-between h-full"
           >
             <div>
               <div className="flex items-center gap-6">
@@ -87,7 +87,7 @@ const TributePage = () => {
                 />
                 <h3 className="text-xl font-bold">{service.title}</h3>
               </div>
-              <p className="mt-4 text-sm font-medium text-gray-600">{service.description}</p>
+              <p className="mt-4 text-sm font-medium text-white">{service.description}</p>
             </div>
 
             {/* Bottom Row: Learn more + Social Icons */}
