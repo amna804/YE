@@ -5,37 +5,58 @@ import { motion } from 'framer-motion';
 
 const timeline = [
   {
-    period: 'Feb 2023 - Jul 2024',
-    role: 'Full Stack Developer',
-    company: 'Merito',
+    period: 'Mar 2023 – Present',
+    role: 'Founder & Core Team Formation',
+    company: 'Youth Empowerment (YE)',
     points: [
-      'Developed over 5 web applications with seamless backend API integration.',
-      'Streamlined workflows by eliminating redundant data, boosting efficiency.',
-      'Improved website loading time by 80% through image optimization, minimizing main-thread work, and implementing SEO strategies.',
-      'Resolved 100+ bugs and conducted thorough code reviews.',
-      'Demonstrated expertise in both backend and frontend development.'
+      'Founded by Maria Sultan andcurently in lead of Khalil Ahmed with a vision to empower students through technology and leadership.',
+      'Established core departments: Tech, Design, Community, and Content.',
+      'Improved website loading time by 80% through image optimization, minimizing main-thread work, and implementing SEO strategies.Built an inclusive platform to support aspiring developers, designers, and tech leaders.',
+      
     ]
   },
   {
-    period: 'May 2021 - Jul 2022',
-    role: 'Full Stack Development Intern',
-    company: 'TECHOX LLP',
+    period: 'Jun 2023 – Sep 2023',
+    role: 'Women Tech Hub Launch + Mentorship Program',
+    company: 'Youth Empowerment',
     points: [
-      'Revamped and enhanced 3+ mobile apps using Flutter.',
-      'Deployed RESTful APIs for seamless app-server integration.',
-      'Integrated Google AdMob to effectively monetize applications.',
-      'Contributed to boosting app functionality and revenue generation.',
+      'Launched Women Tech Hub to promote women in STEM.',
+      'Conducted weekly mentorship sessions on AI, DSA, OOP, and web technologies.',
+      'Reached 100+ students across Pakistan in the first mentorship wave.',
+      
     ]
   },
   {
-    period: 'Jul 2021 - Nov 2021',
-    role: 'Web Development Intern',
-    company: 'Career Corner Education Pvt Ltd',
+    period: 'Oct 2023 – Dec 2023',
+    role: 'Hackathon Series & Speaker Sessions',
+    company: 'Youth Empowerment',
     points: [
-      'Spearheaded website development and enhancements for company portals.',
-      'Prioritized clean, reusable code with modern tech stacks.',
-      'Efficiently managed multiple tasks with minimal supervision.',
-      'Collaborated with senior team members to meet and exceed project goals.',
+      'Organized virtual hackathon with 200+ participants from 10+ universities.',
+      'Hosted speaker sessions on AI, cybersecurity, and freelancing featuring industry experts.',
+      'Introduced beginner-to-pro bootcamps on HTML, CSS, and React.',
+      
+    ],
+  },
+  {
+    period: 'Jan 2024 – Feb 2024',
+    role: 'Official Website & Portfolio Launch',
+    company: 'Youth Empowerment',
+    points: [
+      'Website designed and developed by Amna Bibi (Web Dev Lead) and her team.',
+      'Created team portfolios, member sections, and live event integrations.',
+      'Improved community branding and online accessibility.',
+      
+    ],
+  },
+  {
+    period: 'Mar 2024 – Jul 2024',
+    role: 'Tech Team Expansion & New Initiatives',
+    company: 'Youth Empowerment',
+    points: [
+      'Expanded Web Development, Content, and teams.',
+      'Introduced student-led projects including a Community team members and leads.',
+      'Collaborated with external communities to promote cross-learning.',
+      
     ],
   },
 ];
