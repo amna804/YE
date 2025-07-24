@@ -10,15 +10,24 @@ import {
 
 const services = [
   {
-    title: 'UI/UX Design',
-    description: 'Porttitor aliquam habitasse vulputate adipiscing duis interdum molestie tellus.',
+    title: 'Khalil Ahmad – YE Community Lead',
+    description: 'Khalil Ahmad serves as the dedicated lead of the YE Community, bringing expertise in web and game development, UI/UX design, and data management. Known for his strategic mindset and creative approach, he plays a key role in managing operations, enhancing digital platforms, and fostering an engaging environment for community growth. His leadership reflects a commitment to empowering youth and driving impactful, tech-driven initiatives within the YE network.',
     img: '/p1.png',
-    linkedin: 'https://linkedin.com/in/username1',
+    linkedin: 'https://www.linkedin.com/in/khalil-ahmad-411270260/',
     facebook: 'https://facebook.com/username1',
     instagram: 'https://instagram.com/username1',
     google: 'mailto:user1@gmail.com',
   },
   {
+    title: 'Maria Sultan',
+    description: 'Founder of Youth Empowerment. Led with vision, empowered students in tech, and built a legacy of growth and inclusion.From launching hands-on coding bootcamps to mentoring AI-based projects, Maria contributions laid the foundation of our inclusive and growth-driven culture. Even after stepping away, her values and vision continue to guide us. She may have moved on, but her legacy lives on—in every empowered student, every learning session, and every step we take forward.',
+    img: '/p1.png',
+    linkedin: 'https://www.linkedin.com/in/maria-sultan-bb9032298/',
+    facebook: 'https://facebook.com/username2',
+    instagram: 'https://instagram.com/username2',
+    google: 'mailto:user2@gmail.com',
+  },
+  {
     title: 'Illustration',
     description: 'Porttitor aliquam habitasse vulputate adipiscing duis interdum molestie tellus.',
     img: '/p1.png',
@@ -27,6 +36,16 @@ const services = [
     instagram: 'https://instagram.com/username2',
     google: 'mailto:user2@gmail.com',
   },
+  {
+    title: 'Amna Bibi - Technical Team Lead',
+    description: 'Amna Bibi is the Web Developer Team Lead at Youth Empowerment and the creative force behind our official community website and portfolio. With a strong command of front-end and back-end technologies, she has not only built the digital face of YE but also leads and mentors the entire web development team. Her leadership ensures quality, collaboration, and innovation across all our web-based initiatives. Through her dedication, technical skill, and vision, Amna continues to play a key role in shaping the online identity and growth of the community',
+    img: '/p1.png',
+    linkedin: 'https://www.linkedin.com/in/amna3451-bibi/',
+    facebook: 'https://facebook.com/username2',
+    instagram: 'https://instagram.com/username2',
+    google: 'mailto:user2@gmail.com',
+  },
+
   {
     title: 'Illustration',
     description: 'Porttitor aliquam habitasse vulputate adipiscing duis interdum molestie tellus.',
@@ -45,26 +64,7 @@ const services = [
     instagram: 'https://instagram.com/username2',
     google: 'mailto:user2@gmail.com',
   },
-  
-  {
-    title: 'Illustration',
-    description: 'Porttitor aliquam habitasse vulputate adipiscing duis interdum molestie tellus.',
-    img: '/p1.png',
-    linkedin: 'https://linkedin.com/in/username2',
-    facebook: 'https://facebook.com/username2',
-    instagram: 'https://instagram.com/username2',
-    google: 'mailto:user2@gmail.com',
-  },
-  {
-    title: 'Illustration',
-    description: 'Porttitor aliquam habitasse vulputate adipiscing duis interdum molestie tellus.',
-    img: '/p1.png',
-    linkedin: 'https://linkedin.com/in/username2',
-    facebook: 'https://facebook.com/username2',
-    instagram: 'https://instagram.com/username2',
-    google: 'mailto:user2@gmail.com',
-  },
-  
+
 ];
 
 const TributePage = () => {

@@ -22,18 +22,22 @@ export default function ThirdOffering() {
               <h2 className="text-4xl md:text-5xl font-medium text-white mb-6 text-center md:text-left">
                 Handling Operations
               </h2>
-              
+
               <p className="text-xl text-gray-400 mb-8 leading-relaxed text-center md:text-left">
-                Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+                Ensuring smooth, efficient, and impactful daily workflows.
               </p>
-              
+
               <div className="space-y-6 text-gray-400 text-lg leading-relaxed">
                 <p>
-                  Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+                  From member data management and event coordination to communication and back-end tasks,
+                  every process is handled systematically. We utilize tools to streamline routine
+                  work, allowing our team to focus on meaningful engagement and strategic growth.
                 </p>
-                
+
                 <p>
-                  Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. 
+                  By maintaining consistency, accuracy, and adaptability, we make sure community goals are met
+                  without delay. Our strong operational foundation helps us deliver reliable support and value
+                  to every member of the YE Community.
                 </p>
               </div>
             </div>

@@ -28,8 +28,14 @@ export default function Home() {
           <CenteredHeading
             mainText="Our"
             highlightText="Capabilities"
-            subText="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+            subText="Conception | Collection | Coalition"
           />
+          <p className=" text-gray-600 text-center">
+            Turning ideas into strategies,
+            Gathering insights for impact,
+            Collaborating for unified success.
+          </p>
+
         </section>
 
         <FirstOffering />

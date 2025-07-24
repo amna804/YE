@@ -22,18 +22,19 @@ export default function FirstOffering() {
               <h2 className="text-4xl md:text-5xl font-medium text-white mb-6 text-center md:text-left">
                 Handling Operations
               </h2>
-              
+
               <p className="text-xl text-gray-400 mb-8 leading-relaxed text-center md:text-left">
-                Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+                Coordinating tasks, workflows management, and resource optimization 
+
               </p>
-              
+
               <div className="space-y-6 text-gray-400 text-lg leading-relaxed">
-                <p>
-                  Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-                </p>
-                
-                <p>
-                  Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. 
+               <p>
+                  Good operating strategies enable teams to respond promptly to challenges, adapt to change,
+                  and uphold top standards. Manual or automated, effective operations handling is important
+                  for growth and long-term success.
+
                 </p>
               </div>
             </div>

@@ -22,18 +22,27 @@ export default function SecondOffering() {
               <h2 className="text-4xl md:text-5xl font-medium text-white mb-6 text-center md:text-left">
                 Building with the Web
               </h2>
-              
+
               <p className="text-xl text-gray-400 mb-8 leading-relaxed text-center md:text-left">
-                Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+                The web is now a robust platform for constructing contemporary applications and digital experiences.
+
+
               </p>
-              
+
               <div className="space-y-6 text-gray-400 text-lg leading-relaxed">
                 <p>
-                  Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+                  With technologies such as HTML, CSS, JavaScript, and frameworks, developers can build
+                  responsive, interactive, and scalable websites. From simple landing pages to sophisticated
+                  web apps, the possibilities are endless.
+
                 </p>
-                
+
                 <p>
-                  Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. 
+                  A strong grasp of web development not only improves user experience but also improves
+                  accessibility and performance. Web building involves linking people, ideas, and businesses
+                  across the world through innovation and design.
+
+
                 </p>
               </div>
             </div>
