@@ -12,7 +12,7 @@ export default function Journey() {
                 <CenteredHeading 
                   mainText="Legacy That "
                   highlightText="Leads"
-                  subText="Their footsteps guide our present, their legacy fuels our future"
+                  subText="Their Footsteps Guide Our Present, Their Legacy Fuels Our Future"
                 />
              </section>
       <TributePage />
